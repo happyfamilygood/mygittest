@@ -1,9 +1,10 @@
 package maventest3;
 
-public class Test {
+public class Master {
 
 	public static void main(String[] args) {
-		System.out.println(98765);
+		// TODO Auto-generated method stub
+
 	}
 
 }
